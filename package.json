@@ -1,5 +1,6 @@
 {
   "name": "rishcodeclaw-build",
+  "description": "Openclaw: an AI-powered CLI toolkit for codebase automation, planning, and ask workflows using OpenRouter.",
   "module": "index.ts",
   "type": "module",
   "private": true,
