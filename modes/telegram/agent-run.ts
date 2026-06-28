@@ -1,6 +1,6 @@
 import { tool, ToolLoopAgent, stepCountIs } from "ai";
 import { z } from "zod";
-import { getAgentModel } from "../../ai/ai.config.ts";
+import { getAgentModel } from "../agent/model.ts";
 import { ActionTracker } from "../agent/action-tracker.ts";
 import { ToolExecutor } from "../agent/tool-executor.ts";
 import { createAgentTools } from "../agent/agent-tools.ts";
